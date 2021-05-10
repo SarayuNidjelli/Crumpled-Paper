@@ -8,8 +8,8 @@ var dustbinObj, paperObject,groundObject
 var world, trash_img, paper_img;
 
 function preload(){
-	trash_img = loadImage("images/trashcangreen.png");
-	paper_img = loadImage("images/paper.png");
+	trash_img = loadImage("trashcangreen.png");
+	paper_img = loadImage("paper.png");
 }
 
 
